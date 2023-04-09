@@ -1,11 +1,7 @@
 Hi there I'm Zakaria Bhaibi 
-I'm a Full stack Developer And a Graphic Designer
-
-
-
-- 👋 Hi, I’m @Zakaria-Bhaibi
-- 👀 I’m interested in in everything new and trying to learn all the time
-- 🌱 I’m currently learning New languagues 
+I'm an IT Developper
+I have experience in : Web (HTML,CSS,JS,BOOTSTRAP,WORDPRESS) Desktop (ADO.NET,ASP.NET,c,c#,Algorithme) Mobile (Andoid Studio,XML,JavaMobile)
+I am currently looking for working on new projects so if you are interested HMU
 
 
 
