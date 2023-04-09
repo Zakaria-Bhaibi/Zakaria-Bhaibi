@@ -1,6 +1,9 @@
 Hi there I'm Zakaria Bhaibi 
+
 I'm an IT Developper
+
 I have experience in : Web (HTML,CSS,JS,BOOTSTRAP,WORDPRESS) Desktop (ADO.NET,ASP.NET,c,c#,Algorithme) Mobile (Andoid Studio,XML,JavaMobile)
+
 I am currently looking for working on new projects so if you are interested HMU
 
 
