@@ -31,7 +31,6 @@ src="https://img.shields.io/github/followers/Zakaria-Bhaibi?logo=github&style=fo
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/zakaria-bhaibi"><img src="https://github-readme-stats.vercel.app/api?username=zakaria-bhaibi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="jrayoub's GitHub stats" /></a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zakaria-bhaibi&show_icons=true&locale=en&layout=compact" alt="zakaria-bhaibi" /></p>
 
-<a href="https://github.com/zakaria-bhaibi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakaria-bhaibi&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zakaria-bhaibi&show_icons=true&locale=en" alt="zakaria-bhaibi" /></p>
