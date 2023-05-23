@@ -1,13 +1,13 @@
 [![MasterHead](https://camo.githubusercontent.com/775ed67e1d46c9534c3cb9a4694edf0603b1436a7e3e15891d3c327733fc26b6/68747470733a2f2f7777772e61756469656e6365706c616e65742e636f6d2f726f6f742f74656d706c6174652f312f2f696d616765732f7765622d646576656c6f706d656e742e676966)](https://github.com/Zakaria-Bhaibi)
 Hi 👋 My name is Zakaria Bhaibi
 ==============================
-full stack developer
+Full Stack Developer
 --------------------
 
 I'm an IT Developper and coding is my passion since I was young.
 <img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
-* 🌍  I'm based in Morocco
+* 🌍  I'm from Morocco
 * 🖥️  See my portfolio at [MyPortfolio](https://github.com/Zakaria-Bhaibi/)
 * ✉️  You can contact me at [bhaibizakaria@gmail.com](bhaibizakaria@gmail.com)
 * 🧠  I'm learning ReactJS , PHP and some CSS frameworks.
@@ -16,6 +16,15 @@ I'm an IT Developper and coding is my passion since I was young.
 <a href="https://github.com/Zakaria-Bhaibi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Zakaria-Bhaibi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
+### Languages
+<p align="left">
+<img src="https://raw.githubusercontent.com/lipis/flag-icons/0df85234c05404587baf0a7cb2c4e82c36ed4648/flags/1x1/ma.svg" alt="Arabic" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/lipis/flag-icons/0df85234c05404587baf0a7cb2c4e82c36ed4648/flags/1x1/us.svg" alt="Englich" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/lipis/flag-icons/0df85234c05404587baf0a7cb2c4e82c36ed4648/flags/1x1/de.svg" alt="German" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/lipis/flag-icons/0df85234c05404587baf0a7cb2c4e82c36ed4648/flags/1x1/fr.svg" alt="French" width="40" height="40"/>
+
+ </p>
+ 
 ### Skills
 
 <p align="left">
