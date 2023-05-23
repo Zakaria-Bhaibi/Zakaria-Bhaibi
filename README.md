@@ -4,7 +4,7 @@ Hi 👋 My name is Zakaria Bhaibi
 full stack developer
 --------------------
 
-I'm an IT Developper and I am oriented the Web developpement field.
+I'm an IT Developper and coding is my passion since I was young.
 <img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
 * 🌍  I'm based in Morocco
