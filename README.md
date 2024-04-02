@@ -16,6 +16,8 @@ I'm a Software engineer and coding has been my passion since I was young.
 <a href="https://github.com/Zakaria-Bhaibi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Zakaria-Bhaibi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
+![](https://komarev.com/ghpvc/?username=Zakaria-Bhaibi&abbreviated=true&color=0C8346)
+
 ### Languages
 <p align="left">
 <img src="https://raw.githubusercontent.com/lipis/flag-icons/0df85234c05404587baf0a7cb2c4e82c36ed4648/flags/1x1/ma.svg" alt="Arabic" width="40" height="40"/>
