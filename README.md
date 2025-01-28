@@ -38,6 +38,255 @@ src="https://img.shields.io/github/followers/Zakaria-Bhaibi?logo=github&style=fo
 
 <p align="left"> <a href="https://www.facebook.com/zakaria.bhaibi/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://github.com/Zakaria-Bhaibi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/bhaibi-zakaria/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.instagram.com/zakaria_bhaibi/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="32" height="32" /></a></p>
 
+### 🎖️ **Certificates**
+
+<table>
+   <tr height="320px">
+      <!-- start item -->
+      <td>
+         <table>
+            <tr>
+               <td colspan="4">
+               <a href="https://www.coursera.org/account/accomplishments/verify/CTUDF6LJD5P0">
+                <img src="Images/How computers work.jpg" width="220px" /></a></td>
+            </tr>
+            <tr />
+            <tr>
+               <td width="220px" height="110px" vertical-align="top" colspan="4">
+                <a href="https://www.coursera.org/account/accomplishments/verify/CTUDF6LJD5P0"><strong>How computers work</strong></a>, awarded for completing a course.
+               </td>
+            </tr>
+            <tr />
+            <tr>
+               <td align="center">
+                  <a href="https://www.coursera.org/account/accomplishments/verify/CTUDF6LJD5P0">
+                     <picture>
+                        <source media="(prefers-color-scheme: light)" srcset="./docs/assets/icons/icon-demo-light.svg" />
+                        <source media="(prefers-color-scheme: dark)" srcset="./docs/assets/icons/icon-demo-dark.svg" />
+                        <img align="center" src="./docs/assets/icons/icon-demo-light.svg" width="18px" height="18px" />
+                     </picture>
+                  </a>
+               </td>
+               <td align="center">
+                  <a href="https://www.coursera.org/account/accomplishments/verify/CTUDF6LJD5P0">
+                     <picture>
+                        <source media="(prefers-color-scheme: light)" srcset="./docs/assets/icons/icon-pdf-light.svg" />
+                        <source media="(prefers-color-scheme: dark)" srcset="./docs/assets/icons/icon-pdf-dark.svg" />
+                        <img align="center" src="./docs/assets/icons/icon-pdf-light.svg" width="18px" height="18px" />
+                     </picture>
+                  </a>
+               </td>
+               <td align="center">
+                  <a href="https://www.coursera.org/account/accomplishments/verify/CTUDF6LJD5P0">
+                     <picture>
+                        <source media="(prefers-color-scheme: light)" srcset="./docs/assets/icons/icon-github-light.svg" />
+                        <source media="(prefers-color-scheme: dark)" srcset="./docs/assets/icons/icon-github-dark.svg" />
+                        <img align="center" src="./docs/assets/icons/icon-github-light.svg" width="18px" height="18px" />
+                     </picture>
+                  </a>
+               </td>
+            </tr>
+         </table>
+      </td>
+      <!-- end item -->
+      <!-- start item -->
+      <td>
+         <table>
+            <tr>
+               <td colspan="4">
+               <a href="https://www.coursera.org/account/accomplishments/verify/UQ1ZHC7ZH48D">
+                <img src="docs/assets/img/Introduction to computer programming.jpg" width="220px" /></a></td>
+            </tr>
+            <tr />
+            <tr>
+               <td width="220px" height="110px" vertical-align="top" colspan="4">
+                <a href="https://www.coursera.org/account/accomplishments/verify/UQ1ZHC7ZH48D"><strong>Introduction to Computer Programming</strong></a>, awarded for completing a course.
+               </td>
+            </tr>
+            <tr />
+            <tr>
+               <td align="center">
+                  <a href="https://www.coursera.org/account/accomplishments/verify/UQ1ZHC7ZH48D">
+                     <picture>
+                        <source media="(prefers-color-scheme: light)" srcset="./docs/assets/icons/icon-demo-light.svg" />
+                        <source media="(prefers-color-scheme: dark)" srcset="./docs/assets/icons/icon-demo-dark.svg" />
+                        <img align="center" src="./docs/assets/icons/icon-demo-light.svg" width="18px" height="18px" />
+                     </picture>
+                  </a>
+               </td>
+               <td align="center">
+                  <a href="https://www.coursera.org/account/accomplishments/verify/UQ1ZHC7ZH48D">
+                     <picture>
+                        <source media="(prefers-color-scheme: light)" srcset="./docs/assets/icons/icon-pdf-light.svg" />
+                        <source media="(prefers-color-scheme: dark)" srcset="./docs/assets/icons/icon-pdf-dark.svg" />
+                        <img align="center" src="./docs/assets/icons/icon-pdf-light.svg" width="18px" height="18px" />
+                     </picture>
+                  </a>
+               </td>
+               <td align="center">
+                  <a href="https://www.coursera.org/account/accomplishments/verify/UQ1ZHC7ZH48D">
+                     <picture>
+                        <source media="(prefers-color-scheme: light)" srcset="./docs/assets/icons/icon-github-light.svg" />
+                        <source media="(prefers-color-scheme: dark)" srcset="./docs/assets/icons/icon-github-dark.svg" />
+                        <img align="center" src="./docs/assets/icons/icon-github-light.svg" width="18px" height="18px" />
+                     </picture>
+                  </a>
+               </td>
+            </tr>
+         </table>
+      </td>
+      <!-- end item -->
+      <!-- start item -->
+      <td>
+         <table>
+            <tr>
+               <td colspan="4">
+               <a href="https://www.coursera.org/account/accomplishments/verify/QVKW4G23YD6U">
+                <img src="docs/assets/img/Getting started with git and github.jpg" width="220px" /></a></td>
+            </tr>
+            <tr />
+            <tr>
+               <td width="220px" height="110px" vertical-align="top" colspan="4">
+                <a href="https://www.coursera.org/account/accomplishments/verify/QVKW4G23YD6U"><strong>Getting Started with Git and GitHub</strong></a>, awarded for completing a course.
+               </td>
+            </tr>
+            <tr />
+            <tr>
+               <td align="center">
+                  <a href="https://www.coursera.org/account/accomplishments/verify/QVKW4G23YD6U">
+                     <picture>
+                        <source media="(prefers-color-scheme: light)" srcset="./docs/assets/icons/icon-demo-light.svg" />
+                        <source media="(prefers-color-scheme: dark)" srcset="./docs/assets/icons/icon-demo-dark.svg" />
+                        <img align="center" src="./docs/assets/icons/icon-demo-light.svg" width="18px" height="18px" />
+                     </picture>
+                  </a>
+               </td>
+               <td align="center">
+                  <a href="https://www.coursera.org/account/accomplishments/verify/QVKW4G23YD6U">
+                     <picture>
+                        <source media="(prefers-color-scheme: light)" srcset="./docs/assets/icons/icon-pdf-light.svg" />
+                        <source media="(prefers-color-scheme: dark)" srcset="./docs/assets/icons/icon-pdf-dark.svg" />
+                        <img align="center" src="./docs/assets/icons/icon-pdf-light.svg" width="18px" height="18px" />
+                     </picture>
+                  </a>
+               </td>
+               <td align="center">
+                  <a href="https://www.coursera.org/account/accomplishments/verify/QVKW4G23YD6U">
+                     <picture>
+                        <source media="(prefers-color-scheme: light)" srcset="./docs/assets/icons/icon-github-light.svg" />
+                        <source media="(prefers-color-scheme: dark)" srcset="./docs/assets/icons/icon-github-dark.svg" />
+                        <img align="center" src="./docs/assets/icons/icon-github-light.svg" width="18px" height="18px" />
+                     </picture>
+                  </a>
+               </td>
+            </tr>
+         </table>
+      </td>
+      <!-- end item -->
+   </tr>
+</table>
+<table>
+   <tr height="320px">
+      <!-- start item -->
+      <td>
+         <table>
+            <tr>
+               <td colspan="4">
+               <a href="https://www.coursera.org/account/accomplishments/verify/CYUXEBFD8WCW">
+                <img src="docs/assets/img/Introduction to cloud computing.jpg" width="220px" /></a></td>
+            </tr>
+            <tr />
+            <tr>
+               <td width="220px" height="110px" vertical-align="top" colspan="4">
+                <a href="https://www.coursera.org/account/accomplishments/verify/CYUXEBFD8WCW"><strong>Introduction to Cloud Computing</strong></a>, awarded for completing a course.
+               </td>
+            </tr>
+            <tr />
+            <tr>
+               <td align="center">
+                  <a href="https://www.coursera.org/account/accomplishments/verify/CYUXEBFD8WCW">
+                     <picture>
+                        <source media="(prefers-color-scheme: light)" srcset="./docs/assets/icons/icon-demo-light.svg" />
+                        <source media="(prefers-color-scheme: dark)" srcset="./docs/assets/icons/icon-demo-dark.svg" />
+                        <img align="center" src="./docs/assets/icons/icon-demo-light.svg" width="18px" height="18px" />
+                     </picture>
+                  </a>
+               </td>
+               <td align="center">
+                  <a href="https://www.coursera.org/account/accomplishments/verify/CYUXEBFD8WCW">
+                     <picture>
+                        <source media="(prefers-color-scheme: light)" srcset="./docs/assets/icons/icon-pdf-light.svg" />
+                        <source media="(prefers-color-scheme: dark)" srcset="./docs/assets/icons/icon-pdf-dark.svg" />
+                        <img align="center" src="./docs/assets/icons/icon-pdf-light.svg" width="18px" height="18px" />
+                     </picture>
+                  </a>
+               </td>
+               <td align="center">
+                  <a href="https://www.coursera.org/account/accomplishments/verify/CYUXEBFD8WCW">
+                     <picture>
+                        <source media="(prefers-color-scheme: light)" srcset="./docs/assets/icons/icon-github-light.svg" />
+                        <source media="(prefers-color-scheme: dark)" srcset="./docs/assets/icons/icon-github-dark.svg" />
+                        <img align="center" src="./docs/assets/icons/icon-github-light.svg" width="18px" height="18px" />
+                     </picture>
+                  </a>
+               </td>
+            </tr>
+         </table>
+      </td>
+      <!-- end item -->
+      <!-- start item -->
+      <td>
+         <table>
+            <tr>
+               <td colspan="4">
+               <a href="https://www.coursera.org/account/accomplishments/verify/FFTN6Y4U2CYT">
+                <img src="docs/assets/img/Introduction to web dev.jpg" width="220px" /></a></td>
+            </tr>
+            <tr />
+            <tr>
+               <td width="220px" height="110px" vertical-align="top" colspan="4">
+                <a href="https://www.coursera.org/account/accomplishments/verify/FFTN6Y4U2CYT"><strong>Introduction to Web Development with HTML, CSS, JavaScript
+</strong></a>, awarded for completing a course.
+               </td>
+            </tr>
+            <tr />
+            <tr>
+               <td align="center">
+                  <a href="https://www.coursera.org/account/accomplishments/verify/FFTN6Y4U2CYT">
+                     <picture>
+                        <source media="(prefers-color-scheme: light)" srcset="./docs/assets/icons/icon-demo-light.svg" />
+                        <source media="(prefers-color-scheme: dark)" srcset="./docs/assets/icons/icon-demo-dark.svg" />
+                        <img align="center" src="./docs/assets/icons/icon-demo-light.svg" width="18px" height="18px" />
+                     </picture>
+                  </a>
+               </td>
+               <td align="center">
+                  <a href="https://www.coursera.org/account/accomplishments/verify/FFTN6Y4U2CYT">
+                     <picture>
+                        <source media="(prefers-color-scheme: light)" srcset="./docs/assets/icons/icon-pdf-light.svg" />
+                        <source media="(prefers-color-scheme: dark)" srcset="./docs/assets/icons/icon-pdf-dark.svg" />
+                        <img align="center" src="./docs/assets/icons/icon-pdf-light.svg" width="18px" height="18px" />
+                     </picture>
+                  </a>
+               </td>
+               <td align="center">
+                  <a href="https://www.coursera.org/account/accomplishments/verify/FFTN6Y4U2CYT">
+                     <picture>
+                        <source media="(prefers-color-scheme: light)" srcset="./docs/assets/icons/icon-github-light.svg" />
+                        <source media="(prefers-color-scheme: dark)" srcset="./docs/assets/icons/icon-github-dark.svg" />
+                        <img align="center" src="./docs/assets/icons/icon-github-light.svg" width="18px" height="18px" />
+                     </picture>
+                  </a>
+               </td>
+            </tr>
+         </table>
+      </td>
+      <!-- end item -->
+      
+   </tr>
+</table>
+
+---
 ### Badges
 
 <b>My GitHub Stats</b>
