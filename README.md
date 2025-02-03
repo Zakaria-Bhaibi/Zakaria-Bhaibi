@@ -48,7 +48,7 @@ src="https://img.shields.io/github/followers/Zakaria-Bhaibi?logo=github&style=fo
             <tr>
                <td colspan="4">
                <a href="https://www.coursera.org/account/accomplishments/verify/CTUDF6LJD5P0">
-                <img src="Images/How computers work.jpg" width="220px" /></a></td>
+                <img src="docs/assets/img/How computers work.jpg" width="220px" /></a></td>
             </tr>
             <tr />
             <tr>
