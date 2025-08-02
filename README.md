@@ -8,7 +8,7 @@ I'm a Software engineer and coding has been my passion since I was young.
 <img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
 * 🌍  I'm from Morocco
-* 🖥️  See my portfolio at [MyPortfolio]([https://www.linkedin.com/in/bhaibi-zakaria/](https://portfolio-two-ruddy-rgjlz9sdi8.vercel.app/))
+* 🖥️  See my portfolio at [MyPortfolio](https://portfolio-two-ruddy-rgjlz9sdi8.vercel.app/)
 * ✉️  You can contact me at [bhaibizakaria@gmail.com](bhaibizakaria@gmail.com)
 * 🧠  I'm learning new skills to make my path more exciting.
 * 🤝  I'm open to collaborating on interesting projects.
