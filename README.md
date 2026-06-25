@@ -1,44 +1,127 @@
+<!--
+  GitHub profile README — redesigned to match the Acesso Digital theme (dark + cyan #00C8FF).
+  NOTE: GitHub strips <style>/CSS, so the theme is carried by the image widgets' own color params.
+  Paste this into your Zakaria-Bhaibi/Zakaria-Bhaibi repo README.md.
+-->
 
-Hi 👋 My name is Zakaria Bhaibi
-==============================
-Software engineer
---------------------
+<!-- ============ HEADER BANNER ============ -->
+<div align="center">
 
-I'm a Software engineer and coding has been my passion since I was young.
-<img align="right" alt="Coding" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,100:00c8ff&height=200&section=header&text=Zakaria%20Bhaibi&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20Web%20%C2%B7%20SEO%2FGEO%2FAEO&descAlignY=58&descSize=18" alt="Zakaria Bhaibi" />
 
-* 🌍  I'm from Morocco
-* 🖥️  See my portfolio at [MyPortfolio](https://www.zakariabhaibi.com/)
-* ✉️  You can contact me at [bhaibizakaria@gmail.com](bhaibizakaria@gmail.com)
-* 🧠  I'm learning new skills to make my path more exciting.
-* 🤝  I'm open to collaborating on interesting projects.
+<!-- ============ ANIMATED TYPING ============ -->
+<a href="https://www.zakariabhaibi.com/">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=00C8FF&center=true&vCenter=true&width=600&lines=Software+Engineer;Web+Designer+%26+Developer;SEO+%7C+GEO+%7C+AEO+Specialist;Founder+of+Acesso+Digital" alt="Typing SVG" />
+</a>
 
-<a href="https://github.com/Zakaria-Bhaibi" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Zakaria-Bhaibi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<br/>
 
-![](https://komarev.com/ghpvc/?username=Zakaria-Bhaibi&abbreviated=true&color=0C8346)
+<!-- ============ STATS BADGES ============ -->
+<a href="https://github.com/Zakaria-Bhaibi"><img src="https://img.shields.io/github/followers/Zakaria-Bhaibi?logo=github&style=for-the-badge&color=00c8ff&labelColor=050505" alt="followers" /></a>
+<img src="https://komarev.com/ghpvc/?username=Zakaria-Bhaibi&style=for-the-badge&color=00C8FF&labelColor=050505&label=PROFILE+VIEWS" alt="profile views" />
 
-### Languages
+</div>
+
+<!-- ============ ABOUT ============ -->
+## 👋 About me
+
+I'm a **software engineer** from Morocco, and coding has been my passion since I was young. I build modern web experiences and help businesses get found online through SEO, GEO and AEO.
+
+- 🌍 &nbsp;Based in **Morocco**, working with clients worldwide
+- 🖥️ &nbsp;Portfolio → **[zakariabhaibi.com](https://www.zakariabhaibi.com/)**
+- 🚀 &nbsp;Founder of **[Acesso Digital](https://acessodigitalma.com)** — web design, SEO/GEO/AEO & schema
+- ✉️ &nbsp;Reach me at **[bhaibizakaria@gmail.com](mailto:bhaibizakaria@gmail.com)**
+- 🧠 &nbsp;Always learning new skills to make the journey more exciting
+- 🤝 &nbsp;Open to collaborating on interesting projects
+
+<br/>
+
+<!-- ============ LANGUAGES ============ -->
+## 🗣️ Languages
+
 <p align="left">
-<img src="https://raw.githubusercontent.com/lipis/flag-icons/0df85234c05404587baf0a7cb2c4e82c36ed4648/flags/1x1/ma.svg" alt="Arabic" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/lipis/flag-icons/0df85234c05404587baf0a7cb2c4e82c36ed4648/flags/1x1/us.svg" alt="English" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/lipis/flag-icons/0df85234c05404587baf0a7cb2c4e82c36ed4648/flags/1x1/de.svg" alt="German" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/lipis/flag-icons/0df85234c05404587baf0a7cb2c4e82c36ed4648/flags/1x1/fr.svg" alt="French" width="40" height="40"/>
-
- </p>
- 
-### Skills
-
-<p align="left">
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://ionicframework.com/" target="_blank" rel="noreferrer"> <img src="https://images.prismic.io/ionicframeworkcom/7fddb358-12bb-4d21-bd5a-27e8dbcf55e8_ionic+logo+blue.svg" alt="Ionic" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+  <img src="https://raw.githubusercontent.com/lipis/flag-icons/0df85234c05404587baf0a7cb2c4e82c36ed4648/flags/1x1/ma.svg" alt="Arabic" width="34" height="34" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/lipis/flag-icons/0df85234c05404587baf0a7cb2c4e82c36ed4648/flags/1x1/fr.svg" alt="French" width="34" height="34" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/lipis/flag-icons/0df85234c05404587baf0a7cb2c4e82c36ed4648/flags/1x1/us.svg" alt="English" width="34" height="34" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/lipis/flag-icons/0df85234c05404587baf0a7cb2c4e82c36ed4648/flags/1x1/de.svg" alt="German" width="34" height="34" />
 </p>
 
+<br/>
 
-### Socials
+<!-- ============ SKILLS (themed shields) ============ -->
+## 🧰 Tech stack
 
-<p align="left"> <a href="https://www.facebook.com/zakaria.bhaibi/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://github.com/Zakaria-Bhaibi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/bhaibi-zakaria/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.instagram.com/zakaria_bhaibi/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="32" height="32" /></a></p>
+**Languages**
 
-### 🎖️ **Certificates**
+![C#](https://img.shields.io/badge/C%23-0D0D10?style=for-the-badge&logo=csharp&logoColor=00C8FF)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D0D10?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D0D10?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Java](https://img.shields.io/badge/Java-0D0D10?style=for-the-badge&logo=openjdk&logoColor=ffffff)
+![PHP](https://img.shields.io/badge/PHP-0D0D10?style=for-the-badge&logo=php&logoColor=777BB4)
+![HTML5](https://img.shields.io/badge/HTML5-0D0D10?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0D0D10?style=for-the-badge&logo=css3&logoColor=1572B6)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-0D0D10?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind-0D0D10?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0D0D10?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
+![Sass](https://img.shields.io/badge/Sass-0D0D10?style=for-the-badge&logo=sass&logoColor=CC6699)
+![Ionic](https://img.shields.io/badge/Ionic-0D0D10?style=for-the-badge&logo=ionic&logoColor=3880FF)
+![Android](https://img.shields.io/badge/Android-0D0D10?style=for-the-badge&logo=android&logoColor=3DDC84)
+
+**Backend & Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-0D0D10?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-0D0D10?style=for-the-badge&logo=express&logoColor=ffffff)
+![.NET](https://img.shields.io/badge/.NET-0D0D10?style=for-the-badge&logo=dotnet&logoColor=512BD4)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D0D10?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![MySQL](https://img.shields.io/badge/MySQL-0D0D10?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-0D0D10?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927)
+![Oracle](https://img.shields.io/badge/Oracle-0D0D10?style=for-the-badge&logo=oracle&logoColor=F80000)
+
+**Tools & Design**
+
+![Git](https://img.shields.io/badge/Git-0D0D10?style=for-the-badge&logo=git&logoColor=F05032)
+![Photoshop](https://img.shields.io/badge/Photoshop-0D0D10?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF)
+![Illustrator](https://img.shields.io/badge/Illustrator-0D0D10?style=for-the-badge&logo=adobeillustrator&logoColor=FF9A00)
+
+<br/>
+
+<!-- ============ SOCIALS (themed shields) ============ -->
+## 🔗 Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/bhaibi-zakaria/"><img src="https://img.shields.io/badge/LinkedIn-0D0D10?style=for-the-badge&logo=linkedin&logoColor=00C8FF" alt="LinkedIn" /></a>
+  <a href="https://github.com/Zakaria-Bhaibi"><img src="https://img.shields.io/badge/GitHub-0D0D10?style=for-the-badge&logo=github&logoColor=00C8FF" alt="GitHub" /></a>
+  <a href="https://www.instagram.com/zakaria_bhaibi/"><img src="https://img.shields.io/badge/Instagram-0D0D10?style=for-the-badge&logo=instagram&logoColor=00C8FF" alt="Instagram" /></a>
+  <a href="https://www.facebook.com/zakaria.bhaibi/"><img src="https://img.shields.io/badge/Facebook-0D0D10?style=for-the-badge&logo=facebook&logoColor=00C8FF" alt="Facebook" /></a>
+</p>
+
+<br/>
+
+<!-- ============ GITHUB STATS (themed, transparent so it blends) ============ -->
+## 📊 GitHub stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=zakaria-bhaibi&show_icons=true&hide_border=true&bg_color=00000000&title_color=00C8FF&icon_color=00C8FF&text_color=a1a1aa" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=zakaria-bhaibi&layout=compact&hide_border=true&bg_color=00000000&title_color=00C8FF&text_color=a1a1aa" alt="top languages" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Zakaria-Bhaibi&hide_border=true&background=00000000&ring=00C8FF&fire=00C8FF&currStreakLabel=00C8FF&sideLabels=a1a1aa&dates=71717a&currStreakNum=ffffff&sideNums=ffffff" alt="streak" />
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Zakaria-Bhaibi&bg_color=00000000&color=00C8FF&line=00C8FF&point=ffffff&area=true&area_color=00C8FF&hide_border=true" alt="contribution activity graph" />
+
+</div>
+
+<br/>
+
+<!-- ============ CERTIFICATES (unchanged — links to your repo assets) ============ -->
+## 🎖️ Certificates
 
 <table>
    <tr height="320px">
@@ -282,15 +365,9 @@ src="https://img.shields.io/github/followers/Zakaria-Bhaibi?logo=github&style=fo
          </table>
       </td>
       <!-- end item -->
-      
+
    </tr>
 </table>
 
----
-### Badges
-
-<b>My GitHub Stats</b>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zakaria-bhaibi&show_icons=true&locale=en&layout=compact" alt="zakaria-bhaibi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zakaria-bhaibi&show_icons=true&locale=en" alt="zakaria-bhaibi" /></p>
+<!-- ============ FOOTER BANNER ============ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c8ff,100:050505&height=120&section=footer" alt="" />
