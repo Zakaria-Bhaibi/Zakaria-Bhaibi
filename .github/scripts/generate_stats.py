@@ -154,6 +154,82 @@ def activity_card(days, today):
     return "".join(s)
 
 
+def get_all_days(first_year, today):
+    """Every day since the account opened, and the year totals checked against GitHub's own."""
+    days, total = {}, 0
+    for year in range(first_year, today.year + 1):
+        d, n = get_calendar(year)
+        days.update(d)
+        total += n
+    return {k: v for k, v in days.items() if k <= today.isoformat()}, total
+
+
+def streaks(days, today):
+    """Current streak survives an empty today: the day is not over yet."""
+    one = datetime.timedelta(days=1)
+    d = today if days.get(today.isoformat(), 0) else today - one
+    current = 0
+    while days.get(d.isoformat(), 0):
+        current += 1
+        d -= one
+    best, best_start, best_end, run, start = 0, None, None, 0, None
+    for key in sorted(days):
+        if days[key]:
+            start = key if run == 0 else start
+            run += 1
+            if run > best:
+                best, best_start, best_end = run, start, key
+        else:
+            run = 0
+    return current, best, best_start, best_end
+
+
+def nice(iso, year=True):
+    d = datetime.date.fromisoformat(iso)
+    return f"{d.strftime('%b')} {d.day}" + (f", {d.year}" if year else "")
+
+
+def streak_card(days, total, today):
+    current, best, best_start, best_end = streaks(days, today)
+    active = sorted(k for k, v in days.items() if v)
+    if not active or sum(days.values()) != total:
+        sys.exit("Streak data does not add up: refusing to overwrite the cards")
+    span = nice(active[0]) + " - Present"
+    best_span = f"{nice(best_start)} - {nice(best_end)}" if best else "None yet"
+    w, h = 660, 170
+    cols = [w / 6, w / 2, 5 * w / 6]
+    s = [svg_open(w, h, f"{total} total contributions, current streak {current}, longest streak {best}")]
+    for x in (w / 3, 2 * w / 3):
+        s.append(f'<line x1="{x:.0f}" x2="{x:.0f}" y1="24" y2="{h - 24}" stroke="{GRID}"/>')
+    s.append(f'<text x="{cols[0]:.0f}" y="76" font-size="30" font-weight="700" fill="{CYAN}" text-anchor="middle">{total:,}</text>')
+    s.append(f'<text x="{cols[0]:.0f}" y="108" font-size="14" fill="{TEXT}" text-anchor="middle">Total contributions</text>')
+    s.append(f'<text x="{cols[0]:.0f}" y="130" font-size="11" fill="{MUTED}" text-anchor="middle">{span}</text>')
+    s.append(f'<circle cx="{cols[1]:.0f}" cy="66" r="36" fill="none" stroke="{CYAN}" stroke-width="4"/>')
+    s.append(f'<text x="{cols[1]:.0f}" y="77" font-size="30" font-weight="700" fill="{CYAN}" text-anchor="middle">{current}</text>')
+    s.append(f'<text x="{cols[1]:.0f}" y="128" font-size="14" font-weight="600" fill="{CYAN}" text-anchor="middle">Current streak</text>')
+    s.append(f'<text x="{cols[2]:.0f}" y="76" font-size="30" font-weight="700" fill="{CYAN}" text-anchor="middle">{best}</text>')
+    s.append(f'<text x="{cols[2]:.0f}" y="108" font-size="14" fill="{TEXT}" text-anchor="middle">Longest streak</text>')
+    s.append(f'<text x="{cols[2]:.0f}" y="130" font-size="11" fill="{MUTED}" text-anchor="middle">{best_span}</text></svg>')
+    return "".join(s)
+
+
+GITHUB_MARK = ("M8 0c4.42 0 8 3.58 8 8a8.013 8.013 0 0 1-5.45 7.59c-.4.08-.55-.17-.55-.38 0-.27.01-1.13.01-2.2 0-.75-.25-1.23-.54-1.48 "
+               "1.78-.2 3.65-.88 3.65-3.95 0-.88-.31-1.59-.82-2.15.08-.2.36-1.02-.08-2.12 0 0-.67-.22-2.2.82-.64-.18-1.32-.27-2-.27-.68 0-1.36.09-2 "
+               ".27-1.53-1.03-2.2-.82-2.2-.82-.44 1.1-.16 1.92-.08 2.12-.51.56-.82 1.28-.82 2.15 0 3.06 1.86 3.75 3.64 3.95-.23.2-.44.55-.51 "
+               "1.07-.46.21-1.61.55-2.33-.66-.15-.24-.6-.83-1.23-.82-.67.01-.27.38.01.53.34.19.73.9.82 1.13.16.45.68 1.31 2.69.94 0 .67.01 1.3.01 "
+               "1.49 0 .21-.15.45-.55.38A7.995 7.995 0 0 1 0 8c0-4.42 3.58-8 8-8Z")
+
+
+def followers_badge(count):
+    value = f"{count:,}"
+    left, right = 122, 26 + 10 * len(value)
+    return (svg_open(left + right, 28, f"Followers: {value}") +
+            f'<rect width="{left}" height="28" fill="#050505"/><rect x="{left}" width="{right}" height="28" fill="{CYAN}"/>'
+            f'<path transform="translate(10 6)" fill="#ffffff" d="{GITHUB_MARK}"/>'
+            f'<text x="34" y="18" font-size="10" font-weight="700" letter-spacing="1.2" fill="#ffffff">FOLLOWERS</text>'
+            f'<text x="{left + right / 2:.0f}" y="18" font-size="11" font-weight="700" fill="#050505" text-anchor="middle">{value}</text></svg>')
+
+
 def main():
     today = datetime.datetime.now(datetime.timezone.utc).date()
     days, total = get_calendar(today.year)
@@ -163,6 +239,7 @@ def main():
     repos = get_repos()
     prs = fetch("https://api.github.com/search/issues?per_page=1&q=" + urllib.parse.quote(f"author:{USER} type:pr"))["total_count"]
     owned = [r for r in repos if not r["fork"]]
+    all_days, all_total = get_all_days(int(user["created_at"][:4]), today)
     cards = {
         "stats.svg": stats_card([
             (f"Contributions in {today.year}", total),
@@ -173,6 +250,8 @@ def main():
         ]),
         "top-langs.svg": langs_card(get_languages(repos)),
         "activity.svg": activity_card(days, today),
+        "streak.svg": streak_card(all_days, all_total, today),
+        "followers.svg": followers_badge(user["followers"]),
     }
     # Everything succeeded: only now touch the disk.
     os.makedirs(OUT, exist_ok=True)
